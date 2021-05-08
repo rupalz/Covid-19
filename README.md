@@ -1,4 +1,4 @@
-# Covid-19
+# Covid-19 Statewise Study
 Covid-19 has been widespread in India despite the efforts of suppressing it. India has taken several countermeasures, yet there are no significant signs of improvement. Such is the case due to the high transmission rate. This study aims to visualize the main cause of the difference in the severity of cases among the states of India. 
 
 **The dataset comprises the following characteristics that were concluded to conduct a comparative**
